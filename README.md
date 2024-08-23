@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Yousuf | Electronics Engineer & Digital Strategist<br><br>Navigating the world of Electronics Engineering with a passion for both hardware and digital innovation. From mastering circuits to building websites, my journey at NED University has led me to blend engineering with digital strategies. Proficient in C++, Python, HTML, CSS, JavaScript, MATLAB, and Proteus, I also excel in setting up Shopify stores and crafting WordPress sites that resonate and rank.<br><br>Always curious about the intersection of technology and impact. Let’s connect and explore how we can innovate together!
+👋 Hello! I’m Yousuf | Electronics Engineer & Digital Strategist<br><br>Navigating the world of Electronics Engineering with a passion for both hardware and digital innovation. From mastering circuits to building websites, my journey at NED University has led me to blend engineering with digital strategies. Proficient in C++, Python, HTML, CSS, JavaScript, MATLAB, and Proteus, I also excel in setting up Shopify stores and crafting WordPress sites that resonate and rank.<br><br>Always curious about the intersection of technology and impact. Let’s connect and explore how we can innovate together.
 
 
 ## 🌐 Socials:
